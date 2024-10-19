@@ -98,7 +98,6 @@ with mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5) as 
 ## 📊Profile Wide Statistics📊
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ethanw2457&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cashyup47&show_icons=true)
 
 ## 😂Random Joke for visiting this ReadMe!😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
